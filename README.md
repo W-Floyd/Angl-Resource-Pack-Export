@@ -9,4 +9,4 @@ Exported zip files ready for Minecraft. May not be the latest version, you can c
 I may not update the zip files for a few days at a time, even if I am actively adding textures.
 
 **For those uninitiated in GitHub**
-NOTE - Don't just right click and save as file! Either download a zip of the whole repo, or left click on the file, then click "View Raw"
+NOTE - Don't just right click and save as file! Either download a zip of the whole repo, or left click on the file, then click "Download" or "View Raw".
